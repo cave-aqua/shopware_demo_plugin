@@ -1,6 +1,3 @@
-# shopware_demo_plugin
-shopware demo plugin
-
 <h1>This is my fist try-out with shopware plugins</h1>
 
 <p>
